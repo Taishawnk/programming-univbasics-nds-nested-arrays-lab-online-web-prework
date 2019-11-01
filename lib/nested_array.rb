@@ -29,7 +29,7 @@ def array_literal_matrix
 end
 
 def matrix_lookup(matrix, row, column)
-  martix[1][1]
+  matrix[row][column]
   matrix_lookup
   # Return the matrix's content at row and column
 end
